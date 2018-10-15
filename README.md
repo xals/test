@@ -12,3 +12,7 @@ Inséré sur master depuis upstream, avec un nouveau commit.
 # Chapitre 3
 
 Inséré sur chapitre2 de origin.
+
+# Chapitre 4
+
+Nouveau chapitre.
